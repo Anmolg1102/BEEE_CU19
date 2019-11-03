@@ -1,0 +1,23 @@
+Exp. 1 Design an LED flasher 
+Theory 
+Concepts Used: 
+1. Working of Arduino UNO 
+2. Coding in Arduino IDE and syntax of the same 
+3. Working of LEDs (Light emitting diodes) 
+4. Making connections on a Breadboard. 
+
+Learning & Observations: 
+Coding in Arduino IDE: It is a very simple and systematical way to show how the circuit works. Coding  is very similar to the coding in C language which we have been taught. I have learnt the importance of delay function as the micro-controller is very capable.
+
+Arduino seems to be   my first step towards HARDWARE. 
+
+Problems & Troubleshooting 
+I didn’t encounter any issues as it was simple to understand and perform. 
+ 
+Precautions 
+1. Remember to declare all the ports in use in digital input/output in the right way. 
+2. Check whether all your wire pieces are working correctly and all connections are good. 
+3. Remember to connect Negative end of device to  GND in Arduino Uno to ensure potential difference. 
+
+Learning Outcomes 
+Skills that I have acquired are sound knowledge of using Arduino UNO and slight Idea of how to utilize Arduino Uno in other scenarios.
